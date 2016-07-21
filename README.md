@@ -1,2 +1,2 @@
-# Peso-en-marte
+# Peso-en-marte(js)
 ¿Quieres saber tu peso en marte? 
